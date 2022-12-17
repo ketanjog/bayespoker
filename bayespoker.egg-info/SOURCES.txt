@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.py
+bayespoker/__init__.py
+bayespoker.egg-info/PKG-INFO
+bayespoker.egg-info/SOURCES.txt
+bayespoker.egg-info/dependency_links.txt
+bayespoker.egg-info/top_level.txt
